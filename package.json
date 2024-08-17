@@ -1,0 +1,19 @@
+{
+  "name": "my_first_server",
+  "version": "1.0.0",
+  "description": "Using node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev" : "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "creating_my_first_server"
+  },
+  "author": "Pratham",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
